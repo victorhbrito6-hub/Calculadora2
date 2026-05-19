@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Meu Primeiro Programa em Python
-Autor: [Seu Nome]
-Data: [Data de Hoje]
-Descrição: Programa básico para aprender GitHub
+Alterando o arquivo
 """
 
 # Importações
 import datetime
 import random
 
-# Função de boas-vindas
 def boas_vindas():
     """Exibe mensagem de boas-vindas personalizada"""
     print("=" * 50)
